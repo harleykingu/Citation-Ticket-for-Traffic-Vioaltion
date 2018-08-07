@@ -1,0 +1,28 @@
+
+body {
+  background-color: #332c49;
+}
+
+.v-center {
+  margin-top: 10%;
+}
+
+.font1 {
+  font-family: 'Source Sans Pro';
+  src: url "{{ asset('css/SourceSansPro-Regular.ttf') }} ");
+}
+
+.white-text {
+  color: #888888 !important;
+}
+
+.white-bg {
+  background-color: white !important;
+}
+
+.borderless td, .borderless th {
+    border: none !important;
+}
+.indent {
+    text-indent: 30px !important;
+}
